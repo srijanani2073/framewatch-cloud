@@ -10,7 +10,7 @@
     "LANGUAGE_ENDPOINT":        "https://langmulti.cognitiveservices.azure.com/",
     "LANGUAGE_KEY":             "9z3sLY772gNIQn0RQjneuO2sWsK0h4RPAxcgv2QJQQJ99CCAC3pKaRXJ3w3AAAaACOGIFYT",
 
-    "BLOB_CONNECTION_STRING":   "DefaultEndpointsProtocol=https;AccountName=blobmulti;AccountKey=rCxPtlLtof1I3LCeExdEgdI8tDLYaNEvHiSQQ0/LFC1jIh01DIyLSlfQ2FBxRoq4FL7ITIOsIjW8+ASt/uAQ0Q==;EndpointSuffix=core.windows.net",
+    "BLOB_CONNECTION_STRING":   "DefaultEndpointsProtocol=https;AccountName=blobmulti;AccountKey=rCxPtlLtof1I3LCeExdEgdI8tDLYaN/LFC1jIh01DIyLSlfQ2FBxRoq4FL7ITIOsIjW8+ASt/uAQ0Q==;EndpointSuffix=core.windows.net",
 
     "COSMOS_URI":               "https://cosmosmulti.documents.azure.com:443/",
     "COSMOS_KEY":               "YW9HJXLtLgvOPp2FLlUn17ecBqBpE7OGy0RhWXiIM2nhEX4zO0TpnyIZp78hqJACDbUhCrbQ==",
